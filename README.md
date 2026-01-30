@@ -19,11 +19,15 @@
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xorlaw&layout=compact&theme=dracula&hide=markdown)](https://github.com/anuraghazra/github-readme-stats)
+
   ---
 
   <p align="center">you can contact me on:<br>email - xor@morke.org <br></p>
 
 
-</p>
+
 
 [click here to view my pgp public key](https://raw.githubusercontent.com/xorcr/xorcr/refs/heads/main/xor_0xC0FAA2B5_public.asc)

@@ -1,14 +1,27 @@
-## xorlaw
+```
+>>> whoami
+xorlaw
 
-I code for fun in a few languages.
+- i code for fun in some languages
 
-I am mainly available through email - xor@morke.org
+__________________________________
+
+find me on:
+
+- signal: @xor.17
+- email: xor@morke.org
+```
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xorlaw&layout=compact&theme=dracula&hide=markdown" alt="Top Langs" />
+  </a>
+  <br>
+  <a href="https://raw.githubusercontent.com/xorlaw/xorlaw/refs/heads/main/xor_0xC0FAA2B5_public.asc">Click here to view my PGP public key.</a>
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xorlaw&layout=compact&theme=dracula&hide=markdown)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-
-[Click here to view my pgp public key](https://raw.githubusercontent.com/xorlaw/xorlaw/refs/heads/main/xor_0xC0FAA2B5_public.asc)

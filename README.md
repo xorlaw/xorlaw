@@ -1,3 +1,5 @@
+ - https://xor.oss.zone << main bio
+
 ```
 >>> whoami
 xorlaw

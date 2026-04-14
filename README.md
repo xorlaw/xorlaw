@@ -11,7 +11,7 @@ __________________________________
 find me on:
 
 - signal: @xor.17
-- email: xor@morke.org
+- email: xorlaw@tuta.io
 ```
 
 <div align="center">

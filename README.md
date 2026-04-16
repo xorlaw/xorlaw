@@ -10,7 +10,6 @@ __________________________________
 
 find me on:
 
-- signal: @xor.17
 - email: xorlaw@tuta.io
 ```
 

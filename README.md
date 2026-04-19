@@ -8,6 +8,8 @@ xorlaw
 
 __________________________________
 
+donations:: https://ko-fi.com/xorlaw
+
 find me on:
 
 - email: xorlaw@tuta.io

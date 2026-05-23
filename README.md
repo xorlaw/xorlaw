@@ -11,7 +11,7 @@ find me on:
 - email: xorlaw@tuta.io
 ```
 
-[![Top Langs](https://github-readme-stats-xorlaw-s-projects.vercel.app/api/top-langs?username=xorlaw&layout=compact&theme=gruvbox&hide=Markdown&exclude_repo=Inkay-Roseverse,github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xorlaw-s-projects.vercel.app/api/top-langs?username=xorlaw&layout=compact&theme=gruvbox&hide=Markdown&exclude_repo=Inkay-Roseverse,github-readme-stats&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 [Click here to view my PGP public key.](https://raw.githubusercontent.com/xorlaw/xorlaw/refs/heads/main/xor_0xC0FAA2B5_public.asc)
 

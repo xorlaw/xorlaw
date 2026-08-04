@@ -1,20 +1,7 @@
-```
->>> whoami
-xorlaw
-- i code for fun in some languages
-__________________________________
+## lawl
 
-donations: https://ko-fi.com/xorlaw
+heya, i'm lawl
 
-find me on:
+i **only** use this account for pull requests and issues, my code is not on here. all the repositories on this account are no longer updated
 
-- email: xorlaw@tuta.io
-```
-
-[![Top Langs](https://github-readme-stats-xorlaw-s-projects.vercel.app/api/top-langs?username=xorlaw&layout=compact&theme=gruvbox&hide=Markdown&exclude_repo=Inkay-Roseverse,github-readme-stats&v=1)](https://github.com/anuraghazra/github-readme-stats)
-
-[Click here to view my PGP public key.](https://raw.githubusercontent.com/xorlaw/xorlaw/refs/heads/main/xor_0xC0FAA2B5_public.asc)
-
-
-
-
+instead, all my code is available on my [personal forgejo instance](https://git.lawl.li/lawl) and my [codeberg](https://codeberg.org/lawl).
